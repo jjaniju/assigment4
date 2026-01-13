@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# JSON (esim. asetukset)
+*.json
+
+# Ympäristömuuttujat
+.env
+
+# Lokit
+*.log
+
+# OS-tiedostot
+.DS_Store
